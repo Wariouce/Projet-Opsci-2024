@@ -1,8 +1,11 @@
 # Projet OPSCI 2024
 
 28706911 - Romain DEMONT
+
 Nom de machine : romainlinux-HP-EliteBook-840-G3
+
 Adresse IP : 91.171.82.11
+
 Système d'exploitation : Linux Mint 20.1 Cinnamon
 
 ## Dockers du projet :
